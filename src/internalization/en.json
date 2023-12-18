@@ -1,0 +1,241 @@
+{
+  "header": {
+    "main": "Main",
+    "winners": "Winners"
+  },
+  "home": {
+    "star-factory": {
+      "title": "Star Factory",
+      "description": "Russian music reality show supporting young performers"
+    },
+    "project-stars": {
+      "title": "Project Stars",
+      "description": "Winners of the project\nacross all seasons"
+    },
+    "content": {
+      "title": "Content",
+      "description": "This internet portal features biographies and stories of the journey of performers who have not only captured the hearts of the audience but also the pinnacle of the 'Star Factory' show."
+    },
+    "day-winner": {
+      "title": "Performer of the Day",
+      "name": "VICTORIA DAINYKO",
+      "description": "Winner of the 'Star Factory' TV show in 2004 and 2011"
+    },
+    "developers": {
+      "smyc": "ARTEM SMYCHYOK",
+      "mihey": "MIKHEI ALEXANDER",
+      "litvin": "DANIIL LITVINOVICH",
+      "volk": "ALEXANDER VOLKOV"
+    }
+  },
+  "winners": {
+    "title": "Star Factory Winners",
+    "description": "from Season 1 to Season 8",
+    "corni": {
+      "title": "Korni (Group)",
+      "year": "2002",
+      "description": "Russian pop-rock group that won the first season of the talent show 'Star Factory.' Producer and main songwriter - Igor Matvienko"
+    },
+    "gagarina" : {
+      "title": "Polina Gagarina",
+      "year": "2003",
+      "description": "Russian pop singer, actress in film and television, voiceover artist, composer, and photo model. Participant and winner of the 'Star Factory-2' project on Channel One"
+    },
+    "dubcova" : {
+      "title": "Irina Dubtsova",
+      "year": "2004",
+      "description": "Russian singer, poet, and composer, former soloist of the group 'Girls' (1999-2001). Performer of her own songs (both solo and collaborative), graduate and winner of 'Star Factory-4,' finalist of 'Star Factory. Return.'"
+    },
+    "dainenko": {
+      "title": "Victoria Daineko",
+      "year": "2004, 2011",
+      "description": "Russian singer and actress. Winner of 'Star Factory-5' (2004) and 'Star Factory. Return' (2011)."
+    },
+    "coldun": {
+      "title": "Dmitry Koldun",
+      "year": "2006",
+      "description": "Belarusian singer, poet, and composer, winner of 'Star Factory-6' on Channel One. Represented Belarus at the Eurovision Song Contest 2007 with the song 'Work Your Magic,' securing 6th place."
+    },
+    "prihodko": {
+      "title": "Anastasia Prikhodko",
+      "year": "2007",
+      "description": "Ukrainian singer, songwriter, public and political figure, honored artist of Ukraine (2017). In 2007, she participated in the Russian Channel One show 'Star Factory 7,' where she took first place, leading to collaboration with producer Konstantin Meladze."
+    }
+  },
+  "winner": {
+    "gallery": "Photo Gallery",
+    "biography": "Biography",
+    "performance": "Performance",
+    "place": "Main Activity Location on the Map",
+    "corni": {
+      "title": "Korni (band)",
+      "shortDescription": "Winners of the 1st season of the talent show 'Star Factory'",
+      "description": "Year of formation - 2002\nGroup members\nAlexander Berdnikov\nAlexey Kabanov\nDmitry Pakulichev",
+      "performance": "The group Korni performs the song 'I'm Losing Roots' in the first season of 'Star Factory'",
+      "place": "Location of the first season's filming of the project 'Star Factory' Moscow, Ostankino TV Center",
+      "biography": [
+        {
+          "year": "2002",
+          "title": "Formation of the group",
+          "description": "The group 'Korni' was formed during the 'Star Factory' project and became its winner in late 2002. The members of the group included Alexander Berdnik, Alexey Kabanov, Alexander Astashyonok, Pavel Artemyev. The producer and main songwriter was Igor Matvienko."
+        },
+        {
+          "year": "2003",
+          "title": "Participation in the 'Eurovision' contest",
+          "description": "The group took 6th place with the song 'We Will Rock You' by Queen. In December of the same year, the group released their debut album 'For Ages,' featuring music videos for three songs ('I'm Losing Roots,' 'The Birch Was Crying,' and 'You Will Recognize Her') that were actively rotated on music channels."
+        },
+        {
+          "year": "2004",
+          "title": "Concert tour across Russian cities",
+          "description": "On July 8, 2004, 'Korni' embarked on their first concert tour across Russian cities, during which their song 'Happy Birthday, Vika!' was in rotation on Russian radio stations."
+        },
+        {
+          "year": "2005-2007",
+          "title": "Release of new songs",
+          "description": "On the eve of 2005, the group released a music video for the song 'Happy New Year, People!'. At the same time, the group worked on their second album 'Diaries.' In April 2006, the group released the single 'Do You Want Me to Sing for You,' and in August, a music video for the song 'Against the Wind' was released. In early 2007, the group released the song 'Close Your Eyes.'"
+        },
+        {
+          "year": "2010",
+          "title": "Departure of Pavel Artemyev and Alexander Astashyonok",
+          "description": "In April 2010, the group recorded the single 'It Can't Be' with a new lead vocalist. In June 2010, the group became a trio: Alexander Berdnikov, Alexey Kabanov, and Dmitry Pakulichev, following the departure of Pavel Artemyev and Alexander Astashyonok at their own request."
+        }
+      ]
+    },
+    "dubcova": {
+      "title": "Irina Dubtsova",
+      "shortDescription": "Graduate and winner of 'Star Factory — 4'",
+      "description": "Russian singer, poetess, and composer, former soloist of the group 'Girls' (1999—2001). Performer of her own songs.",
+      "performance": "Irina Dubtsova performs the song 'About Him' on Star Factory-4",
+      "place": "Location of the first season's filming of the project 'Star Factory' Moscow, Ostankino TV Center",
+      "biography": [
+        {
+          "year": "2004—2007",
+          "title": "'Star Factory'",
+          "description": "On March 12, 2004, the fourth season of 'Star Factory' started on Channel One, in which Irina Dubtsova participated. She performed her own composition 'About Him.' On June 8, the final gala concert of 'Star Factory 4' took place at the 'Olympiisky' Sports Complex, where the winners of the project were announced, and Dubtsova took the first place."
+        },
+        {
+          "year": "2008—2011",
+          "title": "Songs",
+          "description": "In 2008, Irina Dubtsova, together with Polina Gagarina, recorded the song 'Whom? Why?'. The song won the 'Muz-TV Award 2010' in the category 'Duet of the Year.' In 2011, she participated in the project 'Star Factory. Return,' where graduates of 'Star Factory' from different years competed. Dubtsova joined the team of producer Igor Krutoy and took third place."
+        },
+        {
+          "year": "2012—2014",
+          "title": "'X-Factor'",
+          "description": "In the spring of 2012, Dubtsova recorded the song 'Eat. Pray. Love,' the lyrics and music of which she wrote herself. In May, a music video shot in Kyiv was released, directed by Alexander Filatovich. In the fall of 2012, the third season of the Ukrainian version of the British vocal talent show 'X-Factor' opened on the Ukrainian channel STB, where Irina Dubtsova took a jury seat as a representative of Yolka."
+        },
+        {
+          "year": "2015",
+          "title": "Concert at 'Crocus City Hall'",
+          "description": "In early 2015, preparations were made for the first solo concert at 'Crocus City Hall,' dedicated to the release of a new album and the 10th anniversary of her solo career. The concert took place on March 28. On January 25, Dubtsova presented her solo song 'Love Me Long' on the Muza TV channel's 'Party Zone' program. On February 3, the music video for this song premiered on the Ello channel on YouTube."
+        },
+        {
+          "year": "From 2016",
+          "title": "TV series 'Kuba'",
+          "description": "In 2016, she played the role of singer Nelly in the TV series 'Kuba' (16th episode). In February 2017, Irina Dubtsova and Leonid Rudenko presented the music video for the composition 'Moscow-Neva.' On November 12, the performers received the 'Golden Gramophone' for this song. On February 14, 2022, Dubtsova released the album 'Sorry,' which included nine tracks. The album was released on the Media Land label."
+        }
+      ]
+    },
+    "dainenko": {
+      "title": "Victoria Daineko",
+      "shortDescription": "Winner of 'Star Factory-5' and 'Star Factory. Return'",
+      "description": "Russian singer and actress, author and performer of her own songs",
+      "performance": "Victoria Daineko performs the song 'Leyla' on Star Factory-5",
+      "place": "Location of the first season's filming of the project 'Star Factory' Moscow, Ostankino TV Center",
+      "biography": [
+        {
+          "year": "1987 - 2004",
+          "title": "Early Years",
+          "description": "Born on May 12, 1987, in the settlement of Kirovsky, Taldy-Kurgan region. She spent her childhood in Yakutia, in the city of Mirny. During school years, she began performing on various musical platforms in Mirny, mainly singing covers of other hits. She gained success, leading to invitations first to the local pop group 'Reflection' and then to the group called 'Phaeton.'"
+        },
+        {
+          "year": "2004",
+          "title": "'Star Factory'",
+          "description": "In 2004, at the age of 17, she became a participant in the First Channel's TV project 'Star Factory 5' under the guidance of singer Alla Pugacheva, where she won and received an apartment in Moscow. As part of the TV project, Daineko performed two solo songs - 'I Will Be Better' and 'Leyla.'"
+        },
+        {
+          "year": "2005",
+          "title": "Songs",
+          "description": "After the TV project, Daineko began serious collaboration with Igor Matvienko. The debut music video for the singer's song 'Leyla' was shot in Thailand in 2005. This was followed by new songs, with which Daineko performed on various platforms, and new music videos."
+        },
+        {
+          "year": "2007 - 2009",
+          "title": "Participation in Projects",
+          "description": "In the same year 2007, she participated in the project 'Ice Age' with Alexey Yagudin, reaching the project's final. In 2007, Daineko played herself in an episodic role in the TV series 'Happy Together.' In the spring of 2009, she participated in the First Channel's project 'Two Stars 2009,' where, paired with actor Alexander Oleshko, she took 3rd place."
+        },
+        {
+          "year": "2011",
+          "title": "'Star Factory. Return'",
+          "description": "In 2011, she participated in the project 'Star Factory. Return,' where graduates of 'Star Factory' from different years competed. Daineko was part of the team of producer Igor Matvienko. Daineko won the project, receiving the preference of 19% of the viewers who participated in the voting."
+        }
+      ]
+    },
+    "gagarina": {
+      "title": "Polina Gagarina",
+      "shortDescription": "Winner of 'Star Factory-2' (2003)",
+      "description": "Russian pop singer, film and television actress, voiceover artist, composer, and photo model",
+      "performance": "Polina Gagarina's performance at the final concert of 'Star Factory 2.'",
+      "place": "Location of the second season's filming of the project 'Star Factory' Moscow, Ostankino TV Center",
+      "biography": [
+        {
+          "year": "1987 - 2002",
+          "title": "Childhood and Youth",
+          "description": "Born on March 27, 1987, in Moscow, she spent her childhood in Greece. Her mother was a professional dancer. In Greece, Gagarina lived for three years, and in September 1993, she went to first grade. Returning to Russia for the summer holidays, at the insistence of her grandmother, she stayed to live with her in Saratov. She enrolled in a music school, performing Whitney Houston's composition in the qualifying round. After graduating from the music school, at the age of 14, Gagarina entered the State School of Popular and Jazz Art."
+        },
+        {
+          "year": "2003",
+          "title": "'Star Factory'",
+          "description": "In 2003, at the age of 16, Gagarina became a participant in the television project 'Star Factory 2.' She performed several songs by Maxim Fadeev and won the competition. Many professionals later recognized Gagarina as the strongest singer among all the show's winners. However, after the project, Gagarina refused to collaborate with Fadeev."
+        },
+        {
+          "year": "2004 - 2005",
+          "title": "Start of Career",
+          "description": "In 2005, Gagarina signed a contract with the label ARS Records. In the same year, she participated in the international competition 'New Wave,' where she took third place with the original song 'Lullaby.' On July 11, the shooting of the music video for this song took place in Moscow, directed and shot by Vladislav Opelyants."
+        },
+        {
+          "year": "2006 - 2007",
+          "title": "Album 'Ask the Clouds'",
+          "description": "In early 2006, the music video for the song 'I Am Yours' was released. Later, a music video for the single 'Morning' was released. In the same year, the single 'I Remember' was released. In 2007, the single 'I Will Never Forgive You' was recorded, written by Konstantin Meladze. On July 12, 2007, the debut album 'Ask the Clouds' was released, which included hits such as 'Lullaby,' 'I Am Yours,' and 'I Will Never Forgive You.'"
+        },
+        {
+          "year": "2008 - 2010",
+          "title": "Album 'About Myself'",
+          "description": "In 2008, Gagarina recorded the song 'Whom, Why?' together with Irina Dubtsova. On March 11, 2010, the second solo album 'About Myself' was released. Gagarina described the album as follows: 'A new album. A new stage in life, both creative and personal. I named the album 'About Myself' because everything in this music and lyrics is pure truth. If you want to know something about me, the best way is to listen to my songs rather than read news in some publications. Here you can't and shouldn't lie.'"
+        }
+      ]
+    },
+    "coldun": {
+      "title": "Dmitry Koldun",
+      "shortDescription": "Winner of 'Star Factory 6'",
+      "description": "Belarusian singer, poet, and composer. Represented Belarus at Eurovision 2007",
+      "performance": "Dmitry Koldun performs the song 'Neseriozno' (Not Seriously) at 'Star Factory 6.'",
+      "place": "Location of the second season's filming of the project 'Star Factory' Moscow, Ostankino TV Center",
+      "biography": [
+        {
+          "year": "1985 - 2005",
+          "title": "Early Projects",
+          "description": "In childhood, he was interested in music and played with his band called 'Tiazhely Koliostyi Plug' (Heavy Wheeled Plow). The guitar trio's repertoire primarily included songs in Belarusian. In 2004, he participated in the project 'Narodny Artist-2' on the 'Russia' channel. In 2004-2005, he worked in the State Concert Orchestra of the Republic of Belarus."
+        },
+        {
+          "year": "2006",
+          "title": "'Star Factory'",
+          "description": "In 2006, he became the winner of the project 'Star Factory 6' on the 'First Channel,' after which he became the soloist of the renewed lineup of the group 'K. G. B.' (Koldun, Gurkova, Barsukov). However, he soon left the collective. After a joint performance with the Scorpions of the song 'Still Loving You,' he received an invitation from the lead singer Klaus Meine to perform this song as part of a joint tour."
+        },
+        {
+          "year": "2007",
+          "title": "Eurovision",
+          "description": "In 2007, he won the Belarusian selection for 'Eurovision-2007' 'Eurofest' with the song 'Work Your Magic,' composed by Philip Kirkorov. Following the Eurovision semifinal on May 10, 2007, Koldun advanced to the final of the competition, where he finished in 6th place (Belarus's highest achievement in the contest)."
+        },
+        {
+          "year": "2007 - 2009",
+          "title": "Further Career",
+          "description": "In December 2007 - March 2008, he participated in the project 'Dve Zvezdy' (Two Stars) on the 'First Channel' in a pair with Natalia Rudova. In 2008, he played the main character in the rock opera 'Zvezda i Smert Khokhakina Mur'ety' (The Star and Death of Joaquin Mureta), the robber Joaquin. On February 9, 2009, together with Alexander Astashonok, he opened the recording studio 'Yasheritsa.'"
+        },
+        {
+          "year": "2009 - 2017",
+          "title": "Participation in Projects",
+          "description": "On April 29, 2009, he performed his first solo concert in Korolev. On November 20, 2010, at the contest 'Junior Eurovision 2010,' he performed the final anthem of UNICEF 'A day without war' together with children participants of the contest. From March 2 to June 8, 2014, he participated in the show 'Toch-v-Toch' on the 'First Channel,' reaching the final but not winning."
+        }
+      ]
+    }
+  }
+}

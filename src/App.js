@@ -1,25 +1,34 @@
-import logo from './logo.svg';
 import './App.css';
+import Home from "./pages/Home";
+import Header from "./components/Header";
+import Winners from "./pages/Winners";
+import {createBrowserRouter, RouterProvider} from "react-router-dom";
+import Winner from "./pages/Winner";
+import {useTranslation} from "react-i18next";
+
+const router = createBrowserRouter([
+    {
+        path: "/",
+        element: <Home/>
+    },
+    {
+        path: "/winners",
+        element: <Winners/>
+    },
+    {
+        path: "/:id",
+        element: <Winner/>
+    }
+])
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+    return (
+        <>
+            <Header/>
+            <RouterProvider router={router} />
+        </>
+    );
 }
 
 export default App;
