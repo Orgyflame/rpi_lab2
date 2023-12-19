@@ -2,22 +2,21 @@ import './App.css';
 import Home from "./pages/Home";
 import Header from "./components/Header";
 import Winners from "./pages/Winners";
-import {createBrowserRouter, RouterProvider} from "react-router-dom";
+import {createHashRouter, RouterProvider} from "react-router-dom";
 import Winner from "./pages/Winner";
-import {useTranslation} from "react-i18next";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
     {
         path: "/",
-        element: <Home/>
+        element: <><Header/><Home/></>
     },
     {
         path: "/winners",
-        element: <Winners/>
+        element: <><Header/><Winners/></>
     },
     {
         path: "/:id",
-        element: <Winner/>
+        element: <><Header/><Winner/></>
     }
 ])
 
@@ -25,8 +24,7 @@ function App() {
 
     return (
         <>
-            <Header/>
-            <RouterProvider router={router} />
+            <RouterProvider router={router}/>
         </>
     );
 }

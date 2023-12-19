@@ -135,12 +135,12 @@ export default function Winner() {
             {timeItems}
         </Timeline>
 
-        <Container className="mt-5" Style="width:fit-content">
+        <Container className="mt-5" Style="max-width:700px">
             <h2 Style="width: fit-content">
                 {t("winner.performance")}
             </h2>
             <p>{t(`winner.${id}.performance`)}</p>
-            <iframe width="700" height="400" src={YOUTUBE.get(id)} allowFullScreen/>
+            <iframe width="100%" height="400" src={YOUTUBE.get(id)} allowFullScreen/>
         </Container>
 
         <Container className="mt-5" Style="width:fit-content">
@@ -149,7 +149,7 @@ export default function Winner() {
             </h2>
             <p>{t(`winner.${id}.place`)}</p>
 
-            <iframe width="700" height="400" loading="lazy" src={MAP.get(id)} allowFullScreen/>
+            <iframe width="100%" height="400" loading="lazy" src={MAP.get(id)} allowFullScreen/>
         </Container>
     </>
 }

@@ -2,6 +2,7 @@ import {useTranslation} from "react-i18next";
 import {Button, Container, Form, InputGroup} from "react-bootstrap";
 import {useState} from "react";
 import Image from "react-bootstrap/Image";
+import {Link} from "react-router-dom";
 
 const WINNERS = [
     {id: "corni", img: "images/corni/corni1.png"},
@@ -41,7 +42,7 @@ function WinnersList({winners}) {
                     <h2>{t("winners." + el.id + ".title")}</h2>
                     <p>{t("winners." + el.id + ".year")}</p>
                     <p>{t("winners." + el.id + ".description")}</p>
-                    <Button variant="light" href={"/" + el.id}>Узнать больше</Button>
+                    <Button as={Link} variant="light" to={"/" + el.id}>Узнать больше</Button>
                 </div>
 
 

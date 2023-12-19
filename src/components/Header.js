@@ -1,12 +1,13 @@
 import {useTranslation} from "react-i18next";
 import {Button, ButtonGroup, Container, Nav, Navbar} from "react-bootstrap";
+import {Link} from "react-router-dom";
 
 export default function Header() {
     const [t, i18n] = useTranslation();
 
     return <Navbar className="bg-body-tertiary justify-content-between" >
         <Container fluid>
-            <Navbar.Brand href="/">
+            <Navbar.Brand as={Link} to="/">
                 <img
                     src="logo.png"
                     height="61px"
@@ -18,8 +19,8 @@ export default function Header() {
 
 
             <Nav>
-                <Nav.Link href="/">{t("header.main")}</Nav.Link>
-                <Nav.Link href="/winners">{t("header.winners")}</Nav.Link>
+                <Nav.Link as={Link} to="/">{t("header.main")}</Nav.Link>
+                <Nav.Link as={Link} to="/winners">{t("header.winners")}</Nav.Link>
             </Nav>
             {/*<Nav>*/}
             {/*    <img src="instagram-icon.svg" />*/}
