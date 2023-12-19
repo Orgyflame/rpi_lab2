@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rpi_lab2/static/css/main.6842baed.css",
-    "main.js": "/rpi_lab2/static/js/main.7fae544c.js",
-    "static/js/787.31997dcb.chunk.js": "/rpi_lab2/static/js/787.31997dcb.chunk.js",
-    "index.html": "/rpi_lab2/index.html",
-    "main.6842baed.css.map": "/rpi_lab2/static/css/main.6842baed.css.map",
-    "main.7fae544c.js.map": "/rpi_lab2/static/js/main.7fae544c.js.map",
-    "787.31997dcb.chunk.js.map": "/rpi_lab2/static/js/787.31997dcb.chunk.js.map"
+    "main.css": "./static/css/main.6842baed.css",
+    "main.js": "./static/js/main.77834dde.js",
+    "static/js/787.31997dcb.chunk.js": "./static/js/787.31997dcb.chunk.js",
+    "index.html": "./index.html",
+    "main.6842baed.css.map": "./static/css/main.6842baed.css.map",
+    "main.77834dde.js.map": "./static/js/main.77834dde.js.map",
+    "787.31997dcb.chunk.js.map": "./static/js/787.31997dcb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6842baed.css",
-    "static/js/main.7fae544c.js"
+    "static/js/main.77834dde.js"
   ]
 }
